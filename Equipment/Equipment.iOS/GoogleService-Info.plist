@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1003792115757-d64740tfs95h97gki251skdn3i3m13ft.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1003792115757-d64740tfs95h97gki251skdn3i3m13ft</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1003792115757-7a73pj8anitlk87ekrveeg2kj76npat9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKfxA1wNwWnfZHlwtJGpEmEMSOCOspQNQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1003792115757</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sylvester.equipment</string>
+	<key>PROJECT_ID</key>
+	<string>equipment-305421</string>
+	<key>STORAGE_BUCKET</key>
+	<string>equipment-305421.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1003792115757:ios:65f3781cad47fa61acf0a4</string>
+</dict>
+</plist>

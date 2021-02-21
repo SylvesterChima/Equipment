@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1003792115757",
+    "project_id": "equipment-305421",
+    "storage_bucket": "equipment-305421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003792115757:android:a61e142c1d5e4c10acf0a4",
+        "android_client_info": {
+          "package_name": "com.sylvester.equipment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003792115757-7a73pj8anitlk87ekrveeg2kj76npat9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sylvester.equipment",
+            "certificate_hash": "2d406c18054a451c63f56cfc8f405907ca46cb4a"
+          }
+        },
+        {
+          "client_id": "1003792115757-1bip18sadc61r8f1vcr9ffgn9jfki8b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiUR_Xy7tHCPrqS1di6sgj-xrQbvhdpdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003792115757-1bip18sadc61r8f1vcr9ffgn9jfki8b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
